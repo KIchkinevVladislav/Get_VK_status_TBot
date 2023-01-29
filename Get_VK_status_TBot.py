@@ -4,6 +4,7 @@ import time
 from dotenv import load_dotenv
 
 load_dotenv()
+
 """
 We assign the values specified in the .env file to the variables
 """
@@ -71,4 +72,3 @@ def main():
 
 if __name__ == '__main__':
    main()
-
